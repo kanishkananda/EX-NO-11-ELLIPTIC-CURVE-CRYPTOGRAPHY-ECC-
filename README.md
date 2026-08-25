@@ -97,7 +97,8 @@ return 0;
 }
 ```
 ## Output:
-![Uploading image.png…]()
+<img width="1481" height="810" alt="image" src="https://github.com/user-attachments/assets/cdad5d65-fdb5-488a-9f72-801c8ea7b4ce" />
+
 
 
 ## Result:
